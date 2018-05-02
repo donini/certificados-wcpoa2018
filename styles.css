@@ -1,0 +1,12 @@
+html, body, .wrap { height: 100%; }
+body { font-family: Arial; text-align:center; background-color:#fff; color:#2957a4; padding:60px 0 0 0; margin:0; }
+h1 { text-shadow:#0A0A0A 1px 1px 1px; }
+img { border:1px solid #E4E4E4; padding:3px; }
+a { color:#7AA8BB; }
+.wrap { width:900px; background:transparent none no-repeat top center; padding:0; margin:0 auto; }
+.items { padding:10px 0 0 0; }
+.item { display:inline; margin:10px; }
+input { padding:10px 15px; font-size:22px; font-weight:bold; }
+.logo { border: 0; width: 400px; }
+form[name="emailinfo"] { position: relative; }
+input[type="submit"] { text-align:center; border: 0; height: 50px; color: #fff; background-color: #2957a4;}
